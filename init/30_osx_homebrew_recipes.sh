@@ -16,7 +16,7 @@ recipes=(
   git-extras
   htop-osx
   hub
-  id3tool
+  #id3tool
   jq
   lesspipe
   man2html

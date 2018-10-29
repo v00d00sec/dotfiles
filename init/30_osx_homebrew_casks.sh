@@ -7,7 +7,7 @@ is_osx || return 1
 # Ensure the cask kegs are installed.
 kegs=(
   caskroom/cask
-  caskroom/drivers
+  #caskroom/drivers
   caskroom/fonts
 )
 brew_tap_kegs
@@ -21,60 +21,60 @@ casks=(
   a-better-finder-rename
   alfred
   android-platform-tools
-  bartender
-  battle-net
-  bettertouchtool
+  #bartender
+  #battle-net
+  #bettertouchtool
   charles
   chromium
-  chronosync
-  controllermate
+  #chronosync
+  #controllermate
   docker
-  dropbox
-  fastscripts
+  #dropbox
+  #fastscripts
   firefox
   gyazo
   hex-fiend
   iterm2
-  karabiner-elements
-  macvim
-  messenger-for-desktop
-  midi-monitor
-  moom
+  #karabiner-elements
+  #macvim
+  #messenger-for-desktop
+  #midi-monitor
+  #moom
   omnidisksweeper
-  race-for-the-galaxy
-  reaper
-  robo-3t
-  screenhero
-  scroll-reverser
-  skype
+  #race-for-the-galaxy
+  #reaper
+  #robo-3t
+  #screenhero
+  #scroll-reverser
+  #skype
   slack
-  sourcetree
-  spotify
-  steam
+  #sourcetree
+  #spotify
+  #steam
   the-unarchiver
   totalfinder
-  tower
+  #tower
   vagrant
-  virtualbox
-  vlc
-  ynab
+  #virtualbox
+  #vlc
+  #ynab
   # Quick Look plugins
-  betterzipql
-  qlcolorcode
-  qlmarkdown
-  qlprettypatch
-  qlstephen
-  quicklook-csv
-  quicklook-json
-  quicknfo
-  suspicious-package
-  webpquicklook
+  #betterzipql
+  #qlcolorcode
+  #qlmarkdown
+  #qlprettypatch
+  #qlstephen
+  #quicklook-csv
+  #quicklook-json
+  #quicknfo
+  #suspicious-package
+  #webpquicklook
   # Color pickers
-  colorpicker-developer
-  colorpicker-skalacolor
+  #colorpicker-developer
+  #colorpicker-skalacolor
   # Drivers
-  sonos
-  xbox360-controller-driver
+  #sonos
+  #xbox360-controller-driver
   # Fonts
   font-m-plus
   font-mplus-nerd-font
